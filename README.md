@@ -1,15 +1,17 @@
-# Beginner Programming Ideas
-## Project Ideas for Beginning JavaScript Programmers with sample code provided in .js files
+# Explanation
+---
+## These programming ideas belong to [strongdan](https://github.com/strongdan) but the codes in this repository belong to me. These are the adviced projects that can be developed on js and I will try to make as much project as possible to improve myself. I must thank to my friend [ismail](https://github.com/ismailgunayy) for showing me this repository.
 
 ### Simple Projects 
+---
 - [ ] [Adventure Game](https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/)
-- [X] [Analog Clock](https://github.com/strongdan/js-analog-clock/)
+- [ ] [Analog Clock](https://github.com/strongdan/js-analog-clock/)
 - [ ] Battleship Game
 - [ ] Bitcoin game: "buy" Bitcoin and watch its performance over time
 - [ ] Bitcoin price notifier (like [Real Python's Python Project for Beginners: Bitcoin Price Notifications](https://realpython.com/blog/python/python-bitcoin-ifttt/))
 - [ ] Blackjack Game
 - [ ] Breakout Game (based on [MDN tutorial](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript) - code available on [Github](https://github.com/end3r/Gamedev-Canvas-workshop))
-- [X] Calculator App
+- [ ] Calculator App
 - [ ] Custom Welcome Messages
 - [ ] Digital Clock
 - [ ] Dynamic Typing Test
@@ -21,14 +23,14 @@
 - [ ] [Guess the Number](https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/)
 - [ ] Hangman Game
 - [ ] [JavaScript Tips Tab](https://medium.com/@codecademy/javascript-tips-tab-4e9081b4132) (Credit @Codecademy)
-- [X] [Lighthouse Labs](https://github.com/lighthouse-labs) [21-Day Coding Challenge](https://coding-challenge.lighthouselabs.ca/start)
+- [ ] [Lighthouse Labs](https://github.com/lighthouse-labs) [21-Day Coding Challenge](https://coding-challenge.lighthouselabs.ca/start)
 - [ ] [Mad Libs Generator](https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/)
-- [X] Magic Eight Ball
+- [ ] Magic Eight Ball
 - [ ] [Mario 3 Memory Game](https://github.com/strongdan/memory-game) (credit [@taniarascia](https://github.com/taniarascia))
 - [ ] Piano Keyboard (see [Joe Liang's walkthrough](https://www.freecodecamp.org/news/javascript-piano-keyboard/))
 - [ ] Poker Game
-- [X] [Random Quote Generator](https://github.com/strongdan/freeCodeCamp-random-quote-generator)
-- [X] Rock-Paper-Scissors Game
+- [ ] [Random Quote Generator](https://github.com/strongdan/freeCodeCamp-random-quote-generator)
+- [ ] Rock-Paper-Scissors Game
 - [ ] Play Audio Webpage
 - [ ] Pomodoro Clock
 - [ ] digital children game
@@ -38,10 +40,11 @@
 - [ ] Tic-tac-toe game
 - [ ] Tip Calculator
 - [ ] Twitter Clone
-- [X] [Typing Speed Test](https://github.com/strongdan/js-typing-speed-test/)
+- [ ] [Typing Speed Test](https://github.com/strongdan/js-typing-speed-test/)
 - [ ] Today's Horoscope
 
 ### Object-oriented Projects
+---
 - [ ] Bank account
 - [ ] Checkers
 - [ ] Chess
@@ -49,6 +52,7 @@
 - [ ] Tic-Tac-Toe
 
 ### Basic CRUD Projects
+---
 - [ ] [Simple CRUD Database App](https://www.taniarascia.com/create-a-simple-database-app-connecting-to-mysql-with-php/) (credit [@taniarascia](https://github.com/taniarascia))
 - [ ] Ecommerce Store
 - [ ] Hangman Game
@@ -67,6 +71,7 @@
 - [ ] Messenger clone (native app)
 
 ### Projects Using Libraries
+---
 - [ ] [Snake Game Built with P5.js](http://danstrong.tech/beginner-js-projects/snakeGame/)
 - [ ] [React QuizBuilder](https://medium.com/@dtkatz/10-react-starter-project-ideas-to-get-you-coding-5b35782e1831)
 - [ ] [React MusicPlayer](https://medium.com/@dtkatz/10-react-starter-project-ideas-to-get-you-coding-5b35782e1831)
